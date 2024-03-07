@@ -1,5 +1,5 @@
 {
-  "name": "my-node-app",
+  "name": "rohit-node-app",
   "version": "1.0.0",
   "description": "Convert your node app as module",
   "main": "index.js",
